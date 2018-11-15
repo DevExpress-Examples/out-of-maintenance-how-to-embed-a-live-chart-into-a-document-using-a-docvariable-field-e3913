@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ChartImage.cs](./CS/ChartImage.cs) (VB: [ChartImage.vb](./VB/ChartImage.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+* [RibbonForm1.cs](./CS/RibbonForm1.cs) (VB: [RibbonForm1.vb](./VB/RibbonForm1.vb))
+<!-- default file list end -->
 # How to embed a live chart into a document using a DOCVARIABLE field
 
 
